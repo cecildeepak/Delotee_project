@@ -1,2 +1,1 @@
-Hello sweety
-Hi
+Hello
